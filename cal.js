@@ -4,7 +4,7 @@ function getHistory(){
 function printHistory(num){
     document.getElementById("history-value").innerText = num;
 }
-alert(printOutput(11));
+
 function getOutput(){
     return document.getElementById("output-value").innerText;
 }
